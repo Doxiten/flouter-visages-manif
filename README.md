@@ -134,3 +134,8 @@ Pour plus d'options, voir la [documentation de Deface](https://github.com/ORB-HD
 ---
 
 Prenez soin de vous et des autres. 🖤
+
+## Contribuer
+
+Ce projet est libre (licence MIT) : vous pouvez le copier, le modifier, l'améliorer et le partager.
+Une idée, un bug, une traduction ? Ouvrez une « Issue » ou proposez une « Pull request ».
